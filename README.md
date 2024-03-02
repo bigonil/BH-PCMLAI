@@ -40,10 +40,6 @@ The dataset includes information about customers, such as age, gender, bar visit
    - Analysis of different passenger types ('Alone', 'Kids', 'Friends', 'Partner') revealed varying acceptance rates.
    - The 'Alone' category showed a distinct pattern.
 
-## Conclusion:
-
-While patterns and associations were identified, predicting coupon acceptance remains complex. Further investigations or machine learning models could enhance predictive capabilities. This EDA provides valuable insights for businesses aiming to understand customer behavior regarding coupon acceptance.
-
 ## Repository:
 
 The code, visualizations, and detailed analysis can be found in the GitHub repository: [[GitHub Repository Link](https://github.com/bigonil/BH-PCMLAI/blob/main/p_assign_app_5_1/prompt.ipynb)].
