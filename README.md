@@ -45,5 +45,3 @@ The dataset includes information about customers, such as age, gender, bar visit
 The code, visualizations, and detailed analysis can be found in the GitHub repository: [[GitHub Repository Link](https://github.com/bigonil/BH-PCMLAI/blob/main/p_assign_app_5_1/prompt.ipynb)].
 
 Feel free to explore the repository for a comprehensive overview of the analysis.
-
-Note: Replace the placeholder in the GitHub Repository Link with the actual link once the repository is created.
