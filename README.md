@@ -62,7 +62,7 @@ In this application, you will explore a dataset from kaggle. The original datase
 
 ## Repository:
 
-The code, visualizations, and detailed analysis can be found in the GitHub repository: [[GitHub Repository Link](https://github.com/bigonil/BH-PCMLAI/blob/main/p_assign_app_5_1/prompt.ipynb)].
+The code, visualizations, and detailed analysis can be found in the GitHub repository: [[GitHub Repository Link Practical Application Assignment 11.1](https://github.com/bigonil/BH-PCMLAI/blob/main/p_assign_app_5_1/prompt.ipynb)].
 
 Use CRISP-DM, which stands for Cross-Industry Standard Process for Data Mining, is a widely used methodology for data mining projects. It provides a structured approach to planning and executing data mining tasks. Below, we detail each phase of the CRISP-DM process, highlighting how it applies to typical data science projects like the one we’ve been discussing involving vehicle price prediction through regression models.
 
@@ -149,7 +149,3 @@ The final phase involves deploying the data mining solution to the business. Thi
 **Example:**
 - **Plan Deployment**: Integrate the predictive model into the online used car marketplace.
 - **Produce Final Report**: Document all methodologies, performances, insights, and recommendations.
-
-## Repository:
-
-The code, visualizations, and detailed analysis can be found in the GitHub repository: [[GitHub Repository Link](https://github.com/bigonil/BH-PCMLAI/blob/main/p_assign_app_5_1/prompt.ipynb)].
