@@ -168,7 +168,8 @@ For the KNN model, choosing an appropriate evaluation metric is crucial. Given t
 
 ## Repository:
 
-The code, visualizations, and detailed analysis can be found in the GitHub repository: [GitHub Repository practical application III](https://github.com/bigonil/BH-PCMLAI/blob/main/practical_application_III/prompt_III.ipynb)
+The code, visualizations, and detailed analysis can be found in the GitHub repository: [GitHub Repository White Wine](
+https://github.com/bigonil/BH-PCMLAI/blob/main/white_whine_quality/try_it_12.1_improving_white_wine.ipynb)
 
 
 # 4) Practical Application Assignment 17.1: Comparing Classifiers 
