@@ -149,3 +149,23 @@ The final phase involves deploying the data mining solution to the business. Thi
 **Example:**
 - **Plan Deployment**: Integrate the predictive model into the online used car marketplace.
 - **Produce Final Report**: Document all methodologies, performances, insights, and recommendations.
+
+# 3) Improving the quality grading of white wine based on its chemical properties
+
+## Introduction:
+
+The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult: http://www.vinhoverde.pt/en/ or the reference [Cortez et al., 2009].  Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
+
+## Dataset Overview:
+
+These datasets can be viewed as classification or regression tasks.  The classes are ordered and not balanced (e.g. there are many more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.
+
+**Business Problem**
+A potential business problem that could be addressed using this dataset is improving the quality grading of white wine based on its chemical properties. Wine quality grading is crucial for vineyards and distributors as it influences pricing, marketing, and sales strategies. However, manual quality assessment can be subjective and inconsistent. Employing a K-Nearest Neighbors (KNN) classification model could standardize quality assessments, making them more objective and reliable. The model would predict the quality rating of a wine based on its chemical attributes, assisting wine producers and sellers in accurately categorizing their products.
+
+**Choice of Metric**
+For the KNN model, choosing an appropriate evaluation metric is crucial. Given the problem's nature—a classification task with multiple classes—the accuracy metric is a straightforward and intuitive choice. Accuracy measures the proportion of total correct predictions, which is useful when class distributions are relatively balanced. However, for more insight into model performance across different wine qualities, weighted F1-score would be an excellent metric. The weighted F1-score considers both precision and recall and adjusts for label imbalance by weighting the scores according to the number of true instances for each label, providing a better sense of model performance on minority classes.
+
+## Repository:
+
+The code, visualizations, and detailed analysis can be found in the GitHub repository: [GitHub Repository Link White Wine Quality](https://github.com/bigonil/BH-PCMLAI/blob/main/white_whine_quality/try_it_12.1_improving_white_wine.ipynb)
