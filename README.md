@@ -168,4 +168,37 @@ For the KNN model, choosing an appropriate evaluation metric is crucial. Given t
 
 ## Repository:
 
-The code, visualizations, and detailed analysis can be found in the GitHub repository: [GitHub Repository Link White Wine Quality](https://github.com/bigonil/BH-PCMLAI/blob/main/white_whine_quality/try_it_12.1_improving_white_wine.ipynb)
+The code, visualizations, and detailed analysis can be found in the GitHub repository: [GitHub Repository White Wine](
+https://github.com/bigonil/BH-PCMLAI/blob/main/white_whine_quality/try_it_12.1_improving_white_wine.ipynb)
+
+
+# 4) Practical Application Assignment 17.1: Comparing Classifiers 
+
+## Introduction:
+n this third practical application assignment, your goal is to compare the performance of the classifiers (k-nearest neighbors, logistic regression, decision trees, and support vector machines) you encountered in this section of the program. You will use a dataset related to the marketing of bank products over the telephone.
+
+## Dataset Overview:
+The dataset you will use comes from the [UCI Machine Learning repository](https://archive.ics.uci.edu/dataset/222/bank+marketing).The data is from a Portuguese banking institution and is a collection of the results of multiple marketing campaigns. You can make use of the [article Links](https://github.com/bigonil/BH-PCMLAI/blob/main/practical_application_III/CRISP-DM-BANK.pdf) for more information on the data and features. The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. 
+
+There are four datasets: 
+1) bank-additional-full.csv with all examples (41188) and 20 inputs, ordered by date (from May 2008 to November 2010), very close to the data analyzed in [Moro et al., 2014]
+2) bank-additional.csv with 10% of the examples (4119), randomly selected from 1), and 20 inputs.
+3) bank-full.csv with all examples and 17 inputs, ordered by date (older version of this dataset with less inputs). 
+4) bank.csv with 10% of the examples and 17 inputs, randomly selected from 3 (older version of this dataset with less inputs). 
+The smallest datasets are provided to test more computationally demanding machine learning algorithms (e.g., SVM). 
+
+The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
+
+## Repository:
+
+The code, visualizations, and detailed analysis can be found in the GitHub repository: [[GitHub Repository Link Practical Application Assignment 17.1](https://github.com/bigonil/BH-PCMLAI/blob/main/practical_application_III/prompt_III.ipynb)].
+
+## Business Understanding:
+To compare and plot the performance of the Logistic Regression model against the KNN algorithm, Decision Tree, and SVM models, we'll follow these steps:
+
+1. Load the dataset and perform any necessary preprocessing.
+2. Split the data into training and test sets.
+3. Train each model on the training data: Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, and Support Vector Machine (SVM).
+4. Evaluate each model on the test set using appropriate metrics, such as accuracy, precision, recall, and F1-score.
+5. Plot the performance metrics for each model for comparison.
+
