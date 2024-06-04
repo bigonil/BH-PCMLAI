@@ -179,7 +179,7 @@ The code, visualizations, and detailed analysis can be found in the GitHub repos
 
 ## Repository:
 
-The code, visualizations, and detailed analysis can be found in the GitHub repository: [[GitHub Repository Link Practical Application Assignment 11.1](https://github.com/bigonil/BH-PCMLAI/blob/main/practical_application_II/prompt_II.ipynb)].
+The code, visualizations, and detailed analysis can be found in the GitHub repository: [[GitHub Repository Link Practical Application Assignment 17.1](https://github.com/bigonil/BH-PCMLAI/blob/main/practical_application_III/prompt_III.ipynb)].
 
 Use CRISP-DM, which stands for Cross-Industry Standard Process for Data Mining, is a widely used methodology for data mining projects. It provides a structured approach to planning and executing data mining tasks. Below, we detail each phase of the CRISP-DM process, highlighting how it applies to typical data science projects like the one we’ve been discussing involving vehicle price prediction through regression models.
 
