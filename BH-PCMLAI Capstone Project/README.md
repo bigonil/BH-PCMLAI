@@ -51,12 +51,11 @@ The predictive models developed were able to successfully identify potential fai
 - **Enhance Feature Engineering**: Develop more sophisticated feature engineering techniques to improve model accuracy.
 - **Expand Data Collection**: Integrate more data sources to enrich the models' training datasets.
 
-## Conclusion
-The project demonstrates the feasibility and effectiveness of using machine telemetry data for predictive maintenance. By implementing this system, manufacturing facilities can expect a significant reduction in unplanned downtime and maintenance costs.
+## Overall Conclusion
+The project demonstrates the feasibility and effectiveness of using machine telemetry data for predictive maintenance. By implementing this system, manufacturing facilities can expect a significant reduction in unplanned downtime and maintenance costs. The model performs well with high accuracy and low loss on both the training and validation sets, demonstrating good generalization.
 
 ## Repository Contents
 - `Predictive_Maintenance_Model.ipynb`: Jupyter Notebook containing all data analysis, model training, and evaluation.
     - [GitHub Repository](https://github.com/bigonil/BH-PCMLAI/blob/main/BH-PCMLAI%20Capstone%20Project/Predictive_Maintenance_Model.ipynb)
 - `data/`: Folder containing the telemetry, error, maintenance, and failure data.
-- `models/`: Trained model files.
 - `README.md`: This documentation.
