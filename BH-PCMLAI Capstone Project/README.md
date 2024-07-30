@@ -58,5 +58,4 @@ The project demonstrates the feasibility and effectiveness of using machine tele
 - `Predictive_Maintenance_Model.ipynb`: Jupyter Notebook containing all data analysis, model training, and evaluation.
     - [GitHub Repository](https://github.com/bigonil/BH-PCMLAI/blob/main/BH-PCMLAI%20Capstone%20Project/Predictive_Maintenance_Model.ipynb)
 - `data/`: Folder containing the telemetry, error, maintenance, and failure data.
-- `models/`: Trained model files.
 - `README.md`: This documentation.
