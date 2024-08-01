@@ -59,3 +59,4 @@ The project demonstrates the feasibility and effectiveness of using machine tele
     - [GitHub Repository](https://github.com/bigonil/BH-PCMLAI/blob/main/BH-PCMLAI%20Capstone%20Project/Predictive_Maintenance_Model.ipynb)
 - `data/`: Folder containing the telemetry, error, maintenance, and failure data.
 - `README.md`: This documentation.
+- `Predictive-Maintenance-Using-Machine-Telemetry-Data.pptx`: [Powerpoint presetation](https://github.com/bigonil/BH-PCMLAI/blob/main/BH-PCMLAI%20Capstone%20Project/Predictive-Maintenance-Using-Machine-Telemetry-Data.pptx)
